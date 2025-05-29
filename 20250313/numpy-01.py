@@ -4,5 +4,5 @@ print("Hello, PyCharm!")
 numbers = [1, 2, 3, 4, 5,8,9]
 for num in numbers:
     # 设置断点
-    result = num * 2
+    result = num * 2+10
     print(result)
